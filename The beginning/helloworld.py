@@ -4,7 +4,8 @@ print("Hellow World")
 print("My first program in python is successfullly created")
 
 
-random_string = "README.md"
+random_string = "Focus on what you want to do with life"
+print(random_string)
 print(len(random_string))
 
 helloWorld = "Hellow World!"
